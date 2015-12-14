@@ -1,0 +1,28 @@
+name: Adrian Seah
+favicon: null
+layout_spectrum: 0.37076980364508927
+typography_spectrum: 0.9761791629716754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5805104803293943
+  lightness: 0.8468193535227329
+  saturation: 0.04919559322297573
+  rhythmicContrast: 0.16421872144564986
+purpose: []
