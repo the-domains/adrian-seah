@@ -1,7 +1,7 @@
 name: Adrian Seah
 favicon: null
 layout_spectrum: 0.53662
-typography_spectrum: 0.7433
+typography_spectrum: 0.70269
 title: Adrian Seah
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.5805104803293943
-  lightness: 0.8468193535227329
-  saturation: 0.04919559322297573
-  rhythmicContrast: 0.16421872144564986
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
